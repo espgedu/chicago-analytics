@@ -4,7 +4,7 @@
 
 Este projeto acadêmico foca na análise de dados públicos da cidade de Chicago, explorando informações de censo populacional, criminalidade e desempenho de escolas públicas. Ele foi desenvolvido como parte do curso **"Databases and SQL for Data Science with Python" da IBM**. O objetivo principal é identificar padrões e correlações entre esses conjuntos de dados, buscando entender as dinâmicas sociais e urbanas de Chicago através da análise de indicadores socioeconômicos, taxas de criminalidade e a qualidade da educação.
 
-[![Imagem meramente ilustrativa](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSB0E2zhAxGdow-1Ca2cqbFayha0cISnpalJ8LOJNcEFdl6rVT56xCZlRl_T9oWbM1FmZarokjZ0gGiwSmaOmwTisil8TLCEv8AlRoZ9E9Ihchn-mg)]
+![Imagem meramente ilustrativa](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSB0E2zhAxGdow-1Ca2cqbFayha0cISnpalJ8LOJNcEFdl6rVT56xCZlRl_T9oWbM1FmZarokjZ0gGiwSmaOmwTisil8TLCEv8AlRoZ9E9Ihchn-mg)
 
 ## Ferramentas Utilizadas
 
@@ -24,10 +24,9 @@ Para realizar esta análise, foram usados:
 
 ## Estrutura do Projeto
 
-.
 ├── .conda/                        # Pasta de ambiente Conda utilizado
-├── DATA/                          # Contém os arquivos de dados brutos e/ou processados.
-├── FinalDB                        # Arquivo do banco de dados (provavelmente SQLite) gerado pelo projeto.
-├── LICENSE                        # Arquivo de licença do projeto.
-├── mod5-final-project-v2.ipynb    # O principal Jupyter Notebook com a análise completa.
+├── DATA/                          # Pasta para dados 
+├── FinalDB                        # Arquivo do banco de dados 
+├── LICENSE                        # Arquivo de licença do projeto
+├── mod5-final-project-v2.ipynb    # O principal e único Jupyter Notebook com a análise completa.
 └── README.md                      # Este arquivo, com a descrição do projeto.
