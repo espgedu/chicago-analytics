@@ -24,9 +24,12 @@ Para realizar esta análise, foram usados:
 
 ## Estrutura do Projeto
 
+```
+.
 ├── .conda/                        # Pasta de ambiente Conda utilizado
 ├── DATA/                          # Pasta para dados 
 ├── FinalDB                        # Arquivo do banco de dados 
 ├── LICENSE                        # Arquivo de licença do projeto
 ├── mod5-final-project-v2.ipynb    # O principal e único Jupyter Notebook com a análise completa.
 └── README.md                      # Este arquivo, com a descrição do projeto.
+```
